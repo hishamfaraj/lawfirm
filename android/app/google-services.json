@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "145263649496",
+    "project_id": "lawfirm-mobile-app",
+    "storage_bucket": "lawfirm-mobile-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145263649496:android:8fd587c737e3cba339adad",
+        "android_client_info": {
+          "package_name": "com.mycompany.lawfirm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145263649496-ktuf9fi4mm5b106asqmhbc5o94crehs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLdOm5_JGjM-TaBaaEqhnvnQjTwwZrQvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145263649496-ktuf9fi4mm5b106asqmhbc5o94crehs7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145263649496-3oseo22s8sj32l4jfg68f5rkn6mf6s56.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.lawfirm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

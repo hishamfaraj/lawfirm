@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Law Firm Application</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Law Firm Application</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>ar</string>
+		<string>en</string>
+	</array>
+
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>com.googleusercontent.apps.145263649496-3oseo22s8sj32l4jfg68f5rkn6mf6s56</string>
+                
+            </array>
+        </dict>
+
+        <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLName</key>
+        <string>lawfirmapplication.com</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+        <string>lawfirmapplication</string>
+        </array>
+        </dict>
+    </array>
+    <key>FlutterDeepLinkingEnabled</key>
+    <true/>
+
+
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+
+
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>The app needs access to your photo library to allow you to upload important documents or images related to your cases. Your privacy and data security are our top priorities.</string>
+	<key>PermissionGroupNotification</key>
+    <string>We would like to send you notifications about important updates, reminders, and alerts related to your cases. This ensures you stay informed in real-time.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>We request access to your location to provide you with relevant legal services and updates based on your current whereabouts. This feature will enhance your experience with location-specific information.</string>
+	<key>NSCameraUsageDescription</key>
+    <string>The app requires access to your camera to allow you to take photos of documents and evidence directly from your device for case submissions. Your privacy is important to us.</string>
+	<key>NSFaceIDUsageDescription</key>
+    <string>We would like to use your biometric data (fingerprint/face recognition) to securely log you into the app. This allows for a faster and safer user experience.</string>
+	<key>NSCalendarsUsageDescription</key>
+    <string>We request access to your calendar to schedule important events, court dates, and reminders related to your cases. This will help you keep track of key dates easily.</string>
+	<key>NSMicrophoneUsageDescription</key>
+    <string>We request access to your microphone to facilitate online calls and communication with your lawyer. This feature will enhance your ability to discuss your case in real-time and ensure a smoother experience.</string>
+	<key>NSContactsUsageDescription</key>
+    <string>We would like to access your contacts to enable easy sharing of important information with your legal team and facilitate communication. This will help you stay connected and ensure that we can reach you when necessary.</string>
+
+
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+
+</dict>
+</plist>

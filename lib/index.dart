@@ -1,0 +1,41 @@
+// Export pages
+export '/new_screens/client_pages/registration_page/registration_page_widget.dart'
+    show RegistrationPageWidget;
+export '/new_screens/client_pages/sign_in_page/sign_in_page_widget.dart'
+    show SignInPageWidget;
+export '/new_screens/client_pages/client_dashboard/client_dashboard_widget.dart'
+    show ClientDashboardWidget;
+export '/new_screens/client_pages/law_firm_informational_page/law_firm_informational_page_widget.dart'
+    show LawFirmInformationalPageWidget;
+export '/new_screens/lawyer_pages/lawyer_dashboard/lawyer_dashboard_widget.dart'
+    show LawyerDashboardWidget;
+export '/new_screens/client_pages/single_lawyer_page/single_lawyer_page_widget.dart'
+    show SingleLawyerPageWidget;
+export '/new_screens/lawyer_pages/lawyer_notebook/lawyer_notebook_widget.dart'
+    show LawyerNotebookWidget;
+export '/new_screens/lawyer_pages/case_details_page_lawyer_view/case_details_page_lawyer_view_widget.dart'
+    show CaseDetailsPageLawyerViewWidget;
+export '/new_screens/lawyer_pages/lawyer_payments_view/lawyer_payments_view_widget.dart'
+    show LawyerPaymentsViewWidget;
+export '/new_screens/lawyer_pages/notification_page/notification_page_widget.dart'
+    show NotificationPageWidget;
+export '/new_screens/admin_pages/admin_dashboard/admin_dashboard_widget.dart'
+    show AdminDashboardWidget;
+export '/new_screens/admin_pages/user_management/user_management_widget.dart'
+    show UserManagementWidget;
+export '/new_screens/admin_pages/case_management/case_management_widget.dart'
+    show CaseManagementWidget;
+export '/new_screens/admin_pages/document_management/document_management_widget.dart'
+    show DocumentManagementWidget;
+export '/new_screens/admin_pages/notifications_communication_settings/notifications_communication_settings_widget.dart'
+    show NotificationsCommunicationSettingsWidget;
+export '/new_screens/admin_pages/appointment_calendar_management/appointment_calendar_management_widget.dart'
+    show AppointmentCalendarManagementWidget;
+export '/new_screens/admin_pages/paymentand_financial_overview/paymentand_financial_overview_widget.dart'
+    show PaymentandFinancialOverviewWidget;
+export '/new_screens/admin_pages/reportsand_analytics/reportsand_analytics_widget.dart'
+    show ReportsandAnalyticsWidget;
+export '/new_screens/admin_pages/system_settings/system_settings_widget.dart'
+    show SystemSettingsWidget;
+export '/new_screens/admin_pages/feedbackand_support/feedbackand_support_widget.dart'
+    show FeedbackandSupportWidget;

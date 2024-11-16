@@ -1,0 +1,8 @@
+NSPhotoLibraryUsageDescription = "The app needs access to your photo library to allow you to upload important documents or images related to your cases. Your privacy and data security are our top priorities.";
+PermissionGroupNotification = "We would like to send you notifications about important updates, reminders, and alerts related to your cases. This ensures you stay informed in real-time.";
+NSLocationWhenInUseUsageDescription = "We request access to your location to provide you with relevant legal services and updates based on your current whereabouts. This feature will enhance your experience with location-specific information.";
+NSCameraUsageDescription = "The app requires access to your camera to allow you to take photos of documents and evidence directly from your device for case submissions. Your privacy is important to us.";
+NSFaceIDUsageDescription = "We would like to use your biometric data (fingerprint/face recognition) to securely log you into the app. This allows for a faster and safer user experience.";
+NSCalendarsUsageDescription = "We request access to your calendar to schedule important events, court dates, and reminders related to your cases. This will help you keep track of key dates easily.";
+NSMicrophoneUsageDescription = "We request access to your microphone to facilitate online calls and communication with your lawyer. This feature will enhance your ability to discuss your case in real-time and ensure a smoother experience.";
+NSContactsUsageDescription = "We would like to access your contacts to enable easy sharing of important information with your legal team and facilitate communication. This will help you stay connected and ensure that we can reach you when necessary.";
