@@ -5,41 +5,51 @@ import 'package:flutter/material.dart';
 class RegistrationPageModel extends FlutterFlowModel<RegistrationPageWidget> {
   ///  State fields for stateful widgets in this page.
 
-  // State field(s) for TextField widget.
-  FocusNode? textFieldFocusNode1;
-  TextEditingController? textController1;
-  String? Function(BuildContext, String?)? textController1Validator;
-  // State field(s) for TextField widget.
-  FocusNode? textFieldFocusNode2;
-  TextEditingController? textController2;
-  String? Function(BuildContext, String?)? textController2Validator;
-  // State field(s) for TextField widget.
-  FocusNode? textFieldFocusNode3;
-  TextEditingController? textController3;
-  String? Function(BuildContext, String?)? textController3Validator;
-  // State field(s) for TextField widget.
-  FocusNode? textFieldFocusNode4;
-  TextEditingController? textController4;
-  late bool passwordVisibility;
-  String? Function(BuildContext, String?)? textController4Validator;
+  // State field(s) for FullNameField widget.
+  FocusNode? fullNameFieldFocusNode;
+  TextEditingController? fullNameFieldTextController;
+  String? Function(BuildContext, String?)? fullNameFieldTextControllerValidator;
+  // State field(s) for EmailField widget.
+  FocusNode? emailFieldFocusNode;
+  TextEditingController? emailFieldTextController;
+  String? Function(BuildContext, String?)? emailFieldTextControllerValidator;
+  // State field(s) for PhoneField widget.
+  FocusNode? phoneFieldFocusNode;
+  TextEditingController? phoneFieldTextController;
+  String? Function(BuildContext, String?)? phoneFieldTextControllerValidator;
+  // State field(s) for PasswordField widget.
+  FocusNode? passwordFieldFocusNode;
+  TextEditingController? passwordFieldTextController;
+  late bool passwordFieldVisibility;
+  String? Function(BuildContext, String?)? passwordFieldTextControllerValidator;
+  // State field(s) for ConfirmPasswordField widget.
+  FocusNode? confirmPasswordFieldFocusNode;
+  TextEditingController? confirmPasswordFieldTextController;
+  late bool confirmPasswordFieldVisibility;
+  String? Function(BuildContext, String?)?
+      confirmPasswordFieldTextControllerValidator;
 
   @override
   void initState(BuildContext context) {
-    passwordVisibility = false;
+    passwordFieldVisibility = false;
+    confirmPasswordFieldVisibility = false;
   }
 
   @override
   void dispose() {
-    textFieldFocusNode1?.dispose();
-    textController1?.dispose();
+    fullNameFieldFocusNode?.dispose();
+    fullNameFieldTextController?.dispose();
 
-    textFieldFocusNode2?.dispose();
-    textController2?.dispose();
+    emailFieldFocusNode?.dispose();
+    emailFieldTextController?.dispose();
 
-    textFieldFocusNode3?.dispose();
-    textController3?.dispose();
+    phoneFieldFocusNode?.dispose();
+    phoneFieldTextController?.dispose();
 
-    textFieldFocusNode4?.dispose();
-    textController4?.dispose();
+    passwordFieldFocusNode?.dispose();
+    passwordFieldTextController?.dispose();
+
+    confirmPasswordFieldFocusNode?.dispose();
+    confirmPasswordFieldTextController?.dispose();
   }
 }

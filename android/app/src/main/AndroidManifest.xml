@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mycompany.lawfirm"
+    package="com.fruitpixels.lawfirm"
     xmlns:tools="http://schemas.android.com/tools">
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -17,7 +17,7 @@
     <uses-permission android:name="android.permission.READ_CONTACTS"/>
     <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
     <application
-        android:label="Law Firm Application"
+        android:label="Law Firm Arabic App"
         tools:replace="android:label"
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true">
@@ -57,7 +57,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="lawfirmapplication" android:host="lawfirmapplication.com" />
+                <data android:scheme="lawfirmarabicapp" android:host="lawfirmarabicapp.com" />
             </intent-filter>
 
         </activity>

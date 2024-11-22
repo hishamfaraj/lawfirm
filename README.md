@@ -1,4 +1,4 @@
-# Law Firm Application
+# Law Firm Arabic App
 
 A new Flutter project.
 

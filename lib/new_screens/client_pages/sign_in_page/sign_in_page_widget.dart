@@ -22,11 +22,11 @@ class _SignInPageWidgetState extends State<SignInPageWidget> {
     super.initState();
     _model = createModel(context, () => SignInPageModel());
 
-    _model.textController1 ??= TextEditingController();
-    _model.textFieldFocusNode1 ??= FocusNode();
+    _model.emailFieldTextController ??= TextEditingController();
+    _model.emailFieldFocusNode ??= FocusNode();
 
-    _model.textController2 ??= TextEditingController();
-    _model.textFieldFocusNode2 ??= FocusNode();
+    _model.passwordFieldTextController ??= TextEditingController();
+    _model.passwordFieldFocusNode ??= FocusNode();
 
     WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
@@ -135,8 +135,8 @@ class _SignInPageWidgetState extends State<SignInPageWidget> {
                               mainAxisSize: MainAxisSize.min,
                               children: [
                                 TextFormField(
-                                  controller: _model.textController1,
-                                  focusNode: _model.textFieldFocusNode1,
+                                  controller: _model.emailFieldTextController,
+                                  focusNode: _model.emailFieldFocusNode,
                                   autofocus: false,
                                   obscureText: false,
                                   decoration: InputDecoration(
@@ -196,14 +196,16 @@ class _SignInPageWidgetState extends State<SignInPageWidget> {
                                       ),
                                   minLines: 1,
                                   keyboardType: TextInputType.emailAddress,
-                                  validator: _model.textController1Validator
+                                  validator: _model
+                                      .emailFieldTextControllerValidator
                                       .asValidator(context),
                                 ),
                                 TextFormField(
-                                  controller: _model.textController2,
-                                  focusNode: _model.textFieldFocusNode2,
+                                  controller:
+                                      _model.passwordFieldTextController,
+                                  focusNode: _model.passwordFieldFocusNode,
                                   autofocus: false,
-                                  obscureText: !_model.passwordVisibility,
+                                  obscureText: !_model.passwordFieldVisibility,
                                   decoration: InputDecoration(
                                     labelText:
                                         FFLocalizations.of(context).getText(
@@ -254,12 +256,12 @@ class _SignInPageWidgetState extends State<SignInPageWidget> {
                                     fillColor: Colors.white,
                                     suffixIcon: InkWell(
                                       onTap: () => safeSetState(
-                                        () => _model.passwordVisibility =
-                                            !_model.passwordVisibility,
+                                        () => _model.passwordFieldVisibility =
+                                            !_model.passwordFieldVisibility,
                                       ),
                                       focusNode: FocusNode(skipTraversal: true),
                                       child: Icon(
-                                        _model.passwordVisibility
+                                        _model.passwordFieldVisibility
                                             ? Icons.visibility_outlined
                                             : Icons.visibility_off_outlined,
                                         color: FlutterFlowTheme.of(context)
@@ -275,7 +277,8 @@ class _SignInPageWidgetState extends State<SignInPageWidget> {
                                         letterSpacing: 0.0,
                                       ),
                                   minLines: 1,
-                                  validator: _model.textController2Validator
+                                  validator: _model
+                                      .passwordFieldTextControllerValidator
                                       .asValidator(context),
                                 ),
                                 FFButtonWidget(

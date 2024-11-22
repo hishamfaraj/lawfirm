@@ -2,6 +2,7 @@ import '/flutter_flow/flutter_flow_icon_button.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
+import 'package:easy_debounce/easy_debounce.dart';
 import 'package:flutter/material.dart';
 import 'registration_page_model.dart';
 export 'registration_page_model.dart';
@@ -23,17 +24,20 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
     super.initState();
     _model = createModel(context, () => RegistrationPageModel());
 
-    _model.textController1 ??= TextEditingController();
-    _model.textFieldFocusNode1 ??= FocusNode();
+    _model.fullNameFieldTextController ??= TextEditingController();
+    _model.fullNameFieldFocusNode ??= FocusNode();
 
-    _model.textController2 ??= TextEditingController();
-    _model.textFieldFocusNode2 ??= FocusNode();
+    _model.emailFieldTextController ??= TextEditingController();
+    _model.emailFieldFocusNode ??= FocusNode();
 
-    _model.textController3 ??= TextEditingController();
-    _model.textFieldFocusNode3 ??= FocusNode();
+    _model.phoneFieldTextController ??= TextEditingController();
+    _model.phoneFieldFocusNode ??= FocusNode();
 
-    _model.textController4 ??= TextEditingController();
-    _model.textFieldFocusNode4 ??= FocusNode();
+    _model.passwordFieldTextController ??= TextEditingController();
+    _model.passwordFieldFocusNode ??= FocusNode();
+
+    _model.confirmPasswordFieldTextController ??= TextEditingController();
+    _model.confirmPasswordFieldFocusNode ??= FocusNode();
 
     WidgetsBinding.instance.addPostFrameCallback((_) => safeSetState(() {}));
   }
@@ -137,8 +141,14 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
                               mainAxisSize: MainAxisSize.min,
                               children: [
                                 TextFormField(
-                                  controller: _model.textController1,
-                                  focusNode: _model.textFieldFocusNode1,
+                                  controller:
+                                      _model.fullNameFieldTextController,
+                                  focusNode: _model.fullNameFieldFocusNode,
+                                  onChanged: (_) => EasyDebounce.debounce(
+                                    '_model.fullNameFieldTextController',
+                                    const Duration(milliseconds: 2000),
+                                    () => safeSetState(() {}),
+                                  ),
                                   autofocus: false,
                                   obscureText: false,
                                   decoration: InputDecoration(
@@ -188,6 +198,25 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
                                     ),
                                     filled: true,
                                     fillColor: const Color(0x33FFFFFF),
+                                    suffixIcon: _model
+                                            .fullNameFieldTextController!
+                                            .text
+                                            .isNotEmpty
+                                        ? InkWell(
+                                            onTap: () async {
+                                              _model.fullNameFieldTextController
+                                                  ?.clear();
+                                              safeSetState(() {});
+                                            },
+                                            child: Icon(
+                                              Icons.clear,
+                                              color:
+                                                  FlutterFlowTheme.of(context)
+                                                      .secondaryText,
+                                              size: 22.0,
+                                            ),
+                                          )
+                                        : null,
                                   ),
                                   style: FlutterFlowTheme.of(context)
                                       .bodyLarge
@@ -196,12 +225,18 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
                                         letterSpacing: 0.0,
                                       ),
                                   minLines: 1,
-                                  validator: _model.textController1Validator
+                                  validator: _model
+                                      .fullNameFieldTextControllerValidator
                                       .asValidator(context),
                                 ),
                                 TextFormField(
-                                  controller: _model.textController2,
-                                  focusNode: _model.textFieldFocusNode2,
+                                  controller: _model.emailFieldTextController,
+                                  focusNode: _model.emailFieldFocusNode,
+                                  onChanged: (_) => EasyDebounce.debounce(
+                                    '_model.emailFieldTextController',
+                                    const Duration(milliseconds: 2000),
+                                    () => safeSetState(() {}),
+                                  ),
                                   autofocus: false,
                                   obscureText: false,
                                   decoration: InputDecoration(
@@ -251,6 +286,23 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
                                     ),
                                     filled: true,
                                     fillColor: const Color(0x33FFFFFF),
+                                    suffixIcon: _model.emailFieldTextController!
+                                            .text.isNotEmpty
+                                        ? InkWell(
+                                            onTap: () async {
+                                              _model.emailFieldTextController
+                                                  ?.clear();
+                                              safeSetState(() {});
+                                            },
+                                            child: Icon(
+                                              Icons.clear,
+                                              color:
+                                                  FlutterFlowTheme.of(context)
+                                                      .secondaryText,
+                                              size: 22.0,
+                                            ),
+                                          )
+                                        : null,
                                   ),
                                   style: FlutterFlowTheme.of(context)
                                       .bodyLarge
@@ -260,12 +312,18 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
                                       ),
                                   minLines: 1,
                                   keyboardType: TextInputType.emailAddress,
-                                  validator: _model.textController2Validator
+                                  validator: _model
+                                      .emailFieldTextControllerValidator
                                       .asValidator(context),
                                 ),
                                 TextFormField(
-                                  controller: _model.textController3,
-                                  focusNode: _model.textFieldFocusNode3,
+                                  controller: _model.phoneFieldTextController,
+                                  focusNode: _model.phoneFieldFocusNode,
+                                  onChanged: (_) => EasyDebounce.debounce(
+                                    '_model.phoneFieldTextController',
+                                    const Duration(milliseconds: 2000),
+                                    () => safeSetState(() {}),
+                                  ),
                                   autofocus: false,
                                   obscureText: false,
                                   decoration: InputDecoration(
@@ -315,6 +373,23 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
                                     ),
                                     filled: true,
                                     fillColor: const Color(0x33FFFFFF),
+                                    suffixIcon: _model.phoneFieldTextController!
+                                            .text.isNotEmpty
+                                        ? InkWell(
+                                            onTap: () async {
+                                              _model.phoneFieldTextController
+                                                  ?.clear();
+                                              safeSetState(() {});
+                                            },
+                                            child: Icon(
+                                              Icons.clear,
+                                              color:
+                                                  FlutterFlowTheme.of(context)
+                                                      .secondaryText,
+                                              size: 22.0,
+                                            ),
+                                          )
+                                        : null,
                                   ),
                                   style: FlutterFlowTheme.of(context)
                                       .bodyLarge
@@ -324,14 +399,17 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
                                       ),
                                   minLines: 1,
                                   keyboardType: TextInputType.phone,
-                                  validator: _model.textController3Validator
+                                  validator: _model
+                                      .phoneFieldTextControllerValidator
                                       .asValidator(context),
                                 ),
                                 TextFormField(
-                                  controller: _model.textController4,
-                                  focusNode: _model.textFieldFocusNode4,
+                                  controller:
+                                      _model.passwordFieldTextController,
+                                  focusNode: _model.passwordFieldFocusNode,
                                   autofocus: false,
-                                  obscureText: !_model.passwordVisibility,
+                                  textInputAction: TextInputAction.next,
+                                  obscureText: !_model.passwordFieldVisibility,
                                   decoration: InputDecoration(
                                     labelText:
                                         FFLocalizations.of(context).getText(
@@ -381,12 +459,12 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
                                     fillColor: const Color(0x33FFFFFF),
                                     suffixIcon: InkWell(
                                       onTap: () => safeSetState(
-                                        () => _model.passwordVisibility =
-                                            !_model.passwordVisibility,
+                                        () => _model.passwordFieldVisibility =
+                                            !_model.passwordFieldVisibility,
                                       ),
                                       focusNode: FocusNode(skipTraversal: true),
                                       child: Icon(
-                                        _model.passwordVisibility
+                                        _model.passwordFieldVisibility
                                             ? Icons.visibility_outlined
                                             : Icons.visibility_off_outlined,
                                         color: FlutterFlowTheme.of(context)
@@ -402,7 +480,93 @@ class _RegistrationPageWidgetState extends State<RegistrationPageWidget> {
                                         letterSpacing: 0.0,
                                       ),
                                   minLines: 1,
-                                  validator: _model.textController4Validator
+                                  validator: _model
+                                      .passwordFieldTextControllerValidator
+                                      .asValidator(context),
+                                ),
+                                TextFormField(
+                                  controller:
+                                      _model.confirmPasswordFieldTextController,
+                                  focusNode:
+                                      _model.confirmPasswordFieldFocusNode,
+                                  autofocus: false,
+                                  textInputAction: TextInputAction.done,
+                                  obscureText:
+                                      !_model.confirmPasswordFieldVisibility,
+                                  decoration: InputDecoration(
+                                    labelText:
+                                        FFLocalizations.of(context).getText(
+                                      'qut4f7eg' /* تأكيد كلمة المرور */,
+                                    ),
+                                    labelStyle: FlutterFlowTheme.of(context)
+                                        .bodyMedium
+                                        .override(
+                                          fontFamily: 'Noto Sans',
+                                          letterSpacing: 0.0,
+                                        ),
+                                    hintStyle: FlutterFlowTheme.of(context)
+                                        .bodyMedium
+                                        .override(
+                                          fontFamily: 'Noto Sans',
+                                          letterSpacing: 0.0,
+                                        ),
+                                    enabledBorder: OutlineInputBorder(
+                                      borderSide: const BorderSide(
+                                        color: Colors.white,
+                                        width: 1.0,
+                                      ),
+                                      borderRadius: BorderRadius.circular(8.0),
+                                    ),
+                                    focusedBorder: OutlineInputBorder(
+                                      borderSide: const BorderSide(
+                                        color: Color(0x00000000),
+                                        width: 1.0,
+                                      ),
+                                      borderRadius: BorderRadius.circular(8.0),
+                                    ),
+                                    errorBorder: OutlineInputBorder(
+                                      borderSide: const BorderSide(
+                                        color: Color(0x00000000),
+                                        width: 1.0,
+                                      ),
+                                      borderRadius: BorderRadius.circular(8.0),
+                                    ),
+                                    focusedErrorBorder: OutlineInputBorder(
+                                      borderSide: const BorderSide(
+                                        color: Color(0x00000000),
+                                        width: 1.0,
+                                      ),
+                                      borderRadius: BorderRadius.circular(8.0),
+                                    ),
+                                    filled: true,
+                                    fillColor: const Color(0x33FFFFFF),
+                                    suffixIcon: InkWell(
+                                      onTap: () => safeSetState(
+                                        () => _model
+                                                .confirmPasswordFieldVisibility =
+                                            !_model
+                                                .confirmPasswordFieldVisibility,
+                                      ),
+                                      focusNode: FocusNode(skipTraversal: true),
+                                      child: Icon(
+                                        _model.confirmPasswordFieldVisibility
+                                            ? Icons.visibility_outlined
+                                            : Icons.visibility_off_outlined,
+                                        color: FlutterFlowTheme.of(context)
+                                            .secondaryText,
+                                        size: 22.0,
+                                      ),
+                                    ),
+                                  ),
+                                  style: FlutterFlowTheme.of(context)
+                                      .bodyLarge
+                                      .override(
+                                        fontFamily: 'Noto Sans',
+                                        letterSpacing: 0.0,
+                                      ),
+                                  minLines: 1,
+                                  validator: _model
+                                      .confirmPasswordFieldTextControllerValidator
                                       .asValidator(context),
                                 ),
                                 FFButtonWidget(

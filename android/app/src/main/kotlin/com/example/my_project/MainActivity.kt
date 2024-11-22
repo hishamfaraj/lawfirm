@@ -1,4 +1,4 @@
-package com.mycompany.lawfirm
+package com.fruitpixels.lawfirm
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -592,7 +592,7 @@ class _AdminDashboardWidgetState extends State<AdminDashboardWidget> {
                                             Text(
                                               FFLocalizations.of(context)
                                                   .getText(
-                                                'phqg5fjw' /* جلسة محكمة - قضية رقم 2024/001 */,
+                                                'phqg5fjw' /* جلسة محكمة - قضية رقم 2024001 */,
                                               ),
                                               style:
                                                   FlutterFlowTheme.of(context)

@@ -148,2015 +148,2024 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   {
     'rkiitnx1': {
       'ar': 'إنشاء حساب جديد',
-      'en': '',
+      'en': 'Create a new account',
     },
     'o672l8ll': {
       'ar': 'أهلاً بك في مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'Welcome to Yamout Law Office',
     },
     'k33eau8n': {
       'ar': 'الاسم الكامل',
-      'en': '',
+      'en': 'full name',
     },
     'gexu8099': {
       'ar': 'البريد الإلكتروني',
-      'en': '',
+      'en': 'e-mail',
     },
     'n1kpxn72': {
       'ar': 'رقم الهاتف',
-      'en': '',
+      'en': 'phone number',
     },
     '6me0ty8o': {
       'ar': 'كلمة المرور',
-      'en': '',
+      'en': 'password',
+    },
+    'qut4f7eg': {
+      'ar': 'تأكيد كلمة المرور',
+      'en': 'Confirm password',
     },
     'm4v4ml0y': {
       'ar': 'إنشاء الحساب',
-      'en': '',
+      'en': 'Create account',
     },
     '412hpvnz': {
       'ar': 'أو سجل الدخول باستخدام',
-      'en': '',
+      'en': 'Or log in using',
     },
     'ptarg8cz': {
       'ar': 'لديك حساب بالفعل؟',
-      'en': '',
+      'en': 'Already have an account?',
     },
     'zr0vg1e3': {
       'ar': 'تسجيل الدخول',
-      'en': '',
+      'en': 'Login',
     },
     '7nv0alcu': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // SignIn_Page
   {
     'f63bwgwk': {
       'ar': 'يموت للمحاماة',
-      'en': '',
+      'en': 'Die for Law',
     },
     'nwie6xxh': {
       'ar': 'تسجيل الدخول',
-      'en': '',
+      'en': 'Login',
     },
     '6gjohxrb': {
       'ar': 'البريد الإلكتروني',
-      'en': '',
+      'en': 'e-mail',
     },
     'o2bp5vyc': {
       'ar': 'كلمة المرور',
-      'en': '',
+      'en': 'password',
     },
     '19tuhtar': {
       'ar': 'تسجيل الدخول',
-      'en': '',
+      'en': 'Login',
     },
     'u9dv7xtt': {
       'ar': 'نسيت كلمة المرور؟',
-      'en': '',
+      'en': 'Forgot your password?',
     },
     'ne3b22di': {
       'ar': 'ليس لديك حساب؟',
-      'en': '',
+      'en': 'Don\'t have an account?',
     },
     'x5mu7zm2': {
       'ar': 'إنشاء حساب',
-      'en': '',
+      'en': 'Create an account',
     },
     'nvivovx8': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // ClientDashboard
   {
     'aao46v8z': {
       'ar': 'لوحة تحكم العميل',
-      'en': '',
+      'en': 'Client Control Panel',
     },
     'l8pxx19o': {
       'ar': 'رقم القضية:',
-      'en': '',
+      'en': 'Case number:',
     },
     '8xqb10kb': {
       'ar': '2024-002',
-      'en': '',
+      'en': '2024-002',
     },
     '33u9rgsq': {
       'ar': 'اسم العميل:',
-      'en': '',
+      'en': 'Customer Name:',
     },
     'l4wrcezi': {
       'ar': 'محمد عبدالله',
-      'en': '',
+      'en': 'Mohammed Abdullah',
     },
     'z7ha0ukt': {
       'ar': 'الشخص المسؤول:',
-      'en': '',
+      'en': 'Responsible person:',
     },
     'sp9bykb9': {
       'ar': 'أحمد حسن',
-      'en': '',
+      'en': 'Ahmed Hassan',
     },
     'ntcf80np': {
       'ar': 'اسم المحامي:',
-      'en': '',
+      'en': 'Lawyer\'s name:',
     },
     '907geqid': {
       'ar': 'فاطمة علي',
-      'en': '',
+      'en': 'Fatima Ali',
     },
     '1tptfiwx': {
       'ar': 'اسم المحكمة:',
-      'en': '',
+      'en': 'Court Name:',
     },
     'gf7jacnc': {
       'ar': 'محكمة القاهرة الابتدائية',
-      'en': '',
+      'en': 'Cairo Court of First Instance',
     },
     'mc0fza80': {
       'ar': 'اسم القاضي:',
-      'en': '',
+      'en': 'Judge\'s name:',
     },
     'wtn49ahr': {
       'ar': 'القاضي محمود سعيد',
-      'en': '',
+      'en': 'Judge Mahmoud Saeed',
     },
     'f8w5xjdw': {
       'ar': 'نوع الدعوى:',
-      'en': '',
+      'en': 'Type of claim:',
     },
     'lcxv7u5n': {
       'ar': 'قضية مدنية',
-      'en': '',
+      'en': 'Civil case',
     },
     'e1wck3o7': {
       'ar': 'تاريخ تعيين القضية:',
-      'en': '',
+      'en': 'Case appointment date:',
     },
     'u8o24pvr': {
       'ar': '15 يناير 2024',
-      'en': '',
+      'en': 'January 15, 2024',
     },
     '2ev0qp34': {
       'ar': 'معلومات الاتصال',
-      'en': '',
+      'en': 'Contact Information',
     },
     'y2hjqimt': {
       'ar': 'رقم الهاتف:',
-      'en': '',
+      'en': 'phone number:',
     },
     'q73x4ewp': {
       'ar': '02-1234567',
-      'en': '',
+      'en': '02-1234567',
     },
     'ayd63ar4': {
       'ar': 'رقم الجوال:',
-      'en': '',
+      'en': 'Mobile number:',
     },
     '04odn4r4': {
       'ar': '0100-123-4567',
-      'en': '',
+      'en': '0100-123-4567',
     },
     'ql6aentf': {
       'ar': 'البريد الإلكتروني:',
-      'en': '',
+      'en': 'e-mail:',
     },
     'a8t6jdsw': {
       'ar': 'mohamed@example.com',
-      'en': '',
+      'en': 'mohamed@example.com',
     },
     '0k7nukwu': {
       'ar': 'تاريخ الميلاد:',
-      'en': '',
+      'en': 'date of birth:',
     },
     '4l0bmmlg': {
       'ar': '1 يناير 1980',
-      'en': '',
+      'en': 'January 1, 1980',
     },
     'u95spb59': {
       'ar': 'ملخص القضية',
-      'en': '',
+      'en': 'Case Summary',
     },
     'ks9b9n9u': {
       'ar':
           'هذه قضية مدنية تتعلق بنزاع عقاري. يدعي العميل وجود مخالفات في عقد الإيجار وعدم التزام المؤجر بشروط العقد.',
-      'en': '',
+      'en':
+          'This is a civil case involving a real estate dispute. The client claims that there are violations in the lease agreement and that the landlord is not complying with the terms of the agreement.',
     },
     'bp42r3w7': {
       'ar': 'تحميل المستندات',
-      'en': '',
+      'en': 'Upload documents',
     },
     'a0426ucf': {
       'ar': 'مواعيد المحكمة وأحكام القاضي',
-      'en': '',
+      'en': 'Court dates and judge\'s rulings',
     },
     'a2uzegc5': {
       'ar': '5 فبراير 2024',
-      'en': '',
+      'en': 'February 5, 2024',
     },
     'w69yb78u': {
       'ar': 'جلسة استماع أولية',
-      'en': '',
+      'en': 'preliminary hearing',
     },
     'w8c767qx': {
       'ar': '20 مارس 2024',
-      'en': '',
+      'en': 'March 20, 2024',
     },
     'efqbinzp': {
       'ar': 'جلسة تقديم الأدلة',
-      'en': '',
+      'en': 'Evidence presentation session',
     },
     'rspqkye9': {
       'ar': 'مصاريف الدعوى والمحامي',
-      'en': '',
+      'en': 'Lawsuit and attorney expenses',
     },
     'cxb242ua': {
       'ar': 'رسوم المحكمة:',
-      'en': '',
+      'en': 'Court fees:',
     },
     'u5ut7ujc': {
       'ar': '5000 جنيه',
-      'en': '',
+      'en': '5000 pounds',
     },
     'qir1sdq2': {
       'ar': 'أتعاب المحامي:',
-      'en': '',
+      'en': 'Attorney\'s fees:',
     },
     'wj7wz3p6': {
       'ar': '10000 جنيه',
-      'en': '',
+      'en': '10000 pounds',
     },
     'vfjw9lcy': {
       'ar': 'مصاريف أخرى:',
-      'en': '',
+      'en': 'Other expenses:',
     },
     '2nsgjuu5': {
       'ar': '2000 جنيه',
-      'en': '',
+      'en': '2000 pounds',
     },
     'dnozw2dl': {
       'ar': 'إضافة دعوى جديدة',
-      'en': '',
+      'en': 'Add a new claim',
     },
   },
   // LawFirmInformationalPage
   {
     'j15cqk7e': {
       'ar': 'مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'Dies Law Office',
     },
     'ktv0xu27': {
       'ar': 'مرحبًا بكم في مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'Welcome to Yamout Law Office',
     },
     '14hm39qx': {
       'ar': 'نقدم خدمات قانونية متميزة لعملائنا منذ أكثر من 20 عامًا',
-      'en': '',
+      'en':
+          'We have been providing outstanding legal services to our clients for over 20 years.',
     },
     'bktbh00t': {
       'ar': 'المزيد من المعلومات',
-      'en': '',
+      'en': 'More information',
     },
     'kvyfh7g2': {
       'ar': 'خدماتنا القانونية',
-      'en': '',
+      'en': 'Our Legal Services',
     },
     'z4m74k9b': {
       'ar': 'القانون المدني',
-      'en': '',
+      'en': 'Civil law',
     },
     't2olxuq9': {
       'ar': 'القانون الجنائي',
-      'en': '',
+      'en': 'Criminal law',
     },
     'n2kex1pe': {
       'ar': 'قانون الأسرة',
-      'en': '',
+      'en': 'Family Law',
     },
     'vye15rhz': {
       'ar': 'القانون التجاري',
-      'en': '',
+      'en': 'Commercial Law',
     },
     '5cx35bz1': {
       'ar': 'تعيين محامي',
-      'en': '',
+      'en': 'Appoint a lawyer',
     },
     'n0js1wvm': {
       'ar': 'فريقنا القانوني',
-      'en': '',
+      'en': 'Our Legal Team',
     },
     '57j0nfhu': {
       'ar': 'أحمد يموت',
-      'en': '',
+      'en': 'Ahmed dies',
     },
     'apvm0fc1': {
       'ar': 'سارة خالد',
-      'en': '',
+      'en': 'Sarah Khaled',
     },
     'yt6wibsx': {
       'ar': 'محمد علي',
-      'en': '',
+      'en': 'Muhammad Ali',
     },
     'mbiw0sxk': {
       'ar': 'عرض جميع المحامين',
-      'en': '',
+      'en': 'View all lawyers',
     },
     '8839bexa': {
       'ar': 'طلب استشارة',
-      'en': '',
+      'en': 'Request a consultation',
     },
     '3vfg643u': {
       'ar': 'حجز موعد',
-      'en': '',
+      'en': 'Book an appointment',
     },
     'ctaw1w71': {
       'ar': 'التسجيل الآن',
-      'en': '',
+      'en': 'Register now',
     },
     'rbm5h0zm': {
       'ar': 'تواصل معنا',
-      'en': '',
+      'en': 'Contact us',
     },
     'zz3820ey': {
       'ar': 'هاتف: +966 12 345 6789',
-      'en': '',
+      'en': 'Phone: +966 12 345 6789',
     },
     '1abifzey': {
       'ar': 'البريد الإلكتروني: info@yamoutlaw.com',
-      'en': '',
+      'en': 'Email: info@yamoutlaw.com',
     },
     'xclvipp9': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // LawyerDashboard
   {
     'icfjedh9': {
       'ar': 'مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'Dies Law Office',
     },
     '7pvvef4g': {
       'ar': 'لوحة التحكم',
-      'en': '',
+      'en': 'Control panel',
     },
     'vrgls602': {
       'ar': 'قضايا العملاء',
-      'en': '',
+      'en': 'Customer issues',
     },
     'ufylecko': {
       'ar': 'مفكرة المحامي',
-      'en': '',
+      'en': 'Lawyer\'s notebook',
     },
     '8e43jcq3': {
       'ar': 'إضافة موعد',
-      'en': '',
+      'en': 'Add an appointment',
     },
     '4y7ajvb1': {
       'ar': 'تقويم المدفوعات',
-      'en': '',
+      'en': 'Payment Calendar',
     },
     'ae1b45n3': {
       'ar': 'تقويم مواعيد القضايا',
-      'en': '',
+      'en': 'Case Calendar',
     },
     'n32ope0g': {
       'ar': 'إضافة قضية جديدة',
-      'en': '',
+      'en': 'Add a new case',
     },
     'xlcxj2du': {
       'ar': 'إحصائيات سريعة',
-      'en': '',
+      'en': 'Quick stats',
     },
     'm6ku8ff7': {
       'ar': 'القضايا النشطة',
-      'en': '',
+      'en': 'Active Issues',
     },
     '2n57na74': {
       'ar': '28',
-      'en': '',
+      'en': '28',
     },
     'zgms4wdi': {
       'ar': 'المواعيد هذا الأسبوع',
-      'en': '',
+      'en': 'Appointments this week',
     },
     'kdt7lyaw': {
       'ar': '12',
-      'en': '',
+      'en': '12',
     },
     'y79fqv58': {
       'ar': 'المدفوعات المستحقة',
-      'en': '',
+      'en': 'Payments Due',
     },
     'cytrnae5': {
       'ar': '٧٥,٠٠٠ ريال',
-      'en': '',
+      'en': '75,000 riyals',
     },
   },
   // SingleLawyerPage
   {
     'hx4gc1mw': {
       'ar': 'د. فاطمة الزهراء',
-      'en': '',
+      'en': 'Dr. Fatima Al Zahra',
     },
     'am28bbmu': {
       'ar': 'شريك رئيسي',
-      'en': '',
+      'en': 'Senior Partner',
     },
     'akk5yewd': {
       'ar': 'نبذة مختصرة',
-      'en': '',
+      'en': 'Brief summary',
     },
     '1ey7lklo': {
       'ar':
           'د. فاطمة الزهراء محامية بارزة مع أكثر من 15 عامًا من الخبرة في مجال قانون الشركات والملكية الفكرية. تتميز بنهجها الاستراتيجي في حل النزاعات القانونية المعقدة وتقديم استشارات قانونية عالية الجودة للشركات المحلية والدولية.',
-      'en': '',
+      'en':
+          'Dr. Fatima Al Zahraa is a prominent lawyer with over 15 years of experience in corporate and intellectual property law. She is distinguished by her strategic approach to resolving complex legal disputes and providing high-quality legal advice to local and international companies.',
     },
     'cr7uvbaq': {
       'ar': 'المؤهلات',
-      'en': '',
+      'en': 'Qualifications',
     },
     '0l2792up': {
       'ar': 'دكتوراه في القانون - جامعة القاهرة',
-      'en': '',
+      'en': 'PhD in Law - Cairo University',
     },
     'i31f16wl': {
       'ar': 'ماجستير في قانون الأعمال الدولي - جامعة هارفارد',
-      'en': '',
+      'en': 'LLM in International Business Law - Harvard University',
     },
     'j50s0v5h': {
       'ar': 'عضو نقابة المحامين المصرية',
-      'en': '',
+      'en': 'Member of the Egyptian Bar Association',
     },
     '3nr29byx': {
       'ar': 'محكم معتمد - مركز القاهرة الإقليمي للتحكيم التجاري الدولي',
-      'en': '',
+      'en':
+          'Certified Arbitrator - Cairo Regional Centre for International Commercial Arbitration',
     },
     'u2tpi7en': {
       'ar': 'معلومات الاتصال',
-      'en': '',
+      'en': 'Contact Information',
     },
     'm76cddcz': {
       'ar': 'البريد الإلكتروني:',
-      'en': '',
+      'en': 'e-mail:',
     },
     'qlx4cc0z': {
       'ar': 'fatima@lawfirm.com',
-      'en': '',
+      'en': 'fatima@lawfirm.com',
     },
     'zg4ayat3': {
       'ar': 'رقم الهاتف:',
-      'en': '',
+      'en': 'phone number:',
     },
     'e7ru2gxr': {
       'ar': '+20 2 1234 5678',
-      'en': '',
+      'en': '+20 2 1234 5678',
     },
     'mlz4ijvu': {
       'ar': 'المكتب:',
-      'en': '',
+      'en': 'Office:',
     },
     '3xpttdlt': {
       'ar': 'القاهرة، مصر',
-      'en': '',
+      'en': 'Cairo, Egypt',
     },
     'ehx2wp3j': {
       'ar': 'جدولة استشارة',
-      'en': '',
+      'en': 'Schedule a consultation',
     },
     '5aun0ogu': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // LawyerNotebook
   {
     '4xwg6do7': {
       'ar': 'دفتر المحامي',
-      'en': '',
+      'en': 'Lawyer\'s notebook',
     },
     '58ojbgi3': {
       'ar': 'الأربعاء، 4 يونيو 2024',
-      'en': '',
+      'en': 'Wednesday, June 4, 2024',
     },
     '5n69sa9z': {
       'ar': 'قضية الشركة أ ضد الشركة ب',
-      'en': '',
+      'en': 'Company A vs Company B case',
     },
     's9bhghrw': {
       'ar': 'جلسة استماع',
-      'en': '',
+      'en': 'Hearing session',
     },
     'uj3kdzf9': {
       'ar': '10:00 ص',
-      'en': '',
+      'en': '10:00 AM',
     },
     'bfqi3cx1': {
       'ar': 'استشارة قانونية - السيد محمد',
-      'en': '',
+      'en': 'Legal Consultation - Mr. Mohammed',
     },
     'tor5rbs8': {
       'ar': 'اجتماع',
-      'en': '',
+      'en': 'meeting',
     },
     'oenrpoe5': {
       'ar': '2:00 م',
-      'en': '',
+      'en': '2:00 PM',
     },
     'awbopveb': {
       'ar': 'مراجعة عقد - شركة ج',
-      'en': '',
+      'en': 'Contract Review - Company J',
     },
     'qkbyyn4z': {
       'ar': 'مهمة',
-      'en': '',
+      'en': 'a task',
     },
     'i7jmr97l': {
       'ar': '4:30 م',
-      'en': '',
+      'en': '4:30 PM',
     },
     'dtoergz0': {
       'ar': 'المواعيد القادمة',
-      'en': '',
+      'en': 'Upcoming appointments',
     },
     'i3zn6sgf': {
       'ar': 'اجتماع مع العميل - السيدة فاطمة',
-      'en': '',
+      'en': 'Meeting with the client - Ms. Fatima',
     },
     'yqjgou8w': {
       'ar': 'الخميس، 5 يونيو 2024',
-      'en': '',
+      'en': 'Thursday, June 5, 2024',
     },
     'ex12bd5t': {
       'ar': '11:00 ص',
-      'en': '',
+      'en': '11:00 AM',
     },
     'e0qx700i': {
       'ar': 'تحضير مذكرة قانونية - قضية د',
-      'en': '',
+      'en': 'Preparing a legal memorandum - Case D',
     },
     'wlu7q0eg': {
       'ar': 'الجمعة، 6 يونيو 2024',
-      'en': '',
+      'en': 'Friday, June 6, 2024',
     },
     'szjpgz00': {
       'ar': 'طوال اليوم',
-      'en': '',
+      'en': 'All day long',
     },
     'ftk69bum': {
       'ar': 'جلسة محكمة - قضية هـ',
-      'en': '',
+      'en': 'Court Session - Case H',
     },
     'g2ab4d21': {
       'ar': 'الإثنين، 9 يونيو 2024',
-      'en': '',
+      'en': 'Monday, June 9, 2024',
     },
     'k1qssccp': {
       'ar': '9:00 ص',
-      'en': '',
+      'en': '9:00 AM',
     },
     'nd2pwj44': {
       'ar': 'إضافة موعد جديد',
-      'en': '',
+      'en': 'Add new appointment',
     },
   },
   // CaseDetailsPageLawyerView
   {
     'eel6um7l': {
       'ar': 'تفاصيل القضية',
-      'en': '',
+      'en': 'Case details',
     },
     'l630fc35': {
       'ar': 'رقم القضية:',
-      'en': '',
+      'en': 'Case number:',
     },
     '0fu5tfum': {
       'ar': '2024-003',
-      'en': '',
+      'en': '2024-003',
     },
     '3d3ba3jj': {
       'ar': 'اسم العميل:',
-      'en': '',
+      'en': 'Customer Name:',
     },
     '9o4bu4vn': {
       'ar': 'سارة محمود',
-      'en': '',
+      'en': 'Sarah Mahmoud',
     },
     'mmy7i572': {
       'ar': 'الشخص المسؤول:',
-      'en': '',
+      'en': 'Responsible person:',
     },
     'h797g0km': {
       'ar': 'خالد عبد الرحمن',
-      'en': '',
+      'en': 'Khaled Abdul Rahman',
     },
     'vuoe5kbh': {
       'ar': 'اسم المحامي:',
-      'en': '',
+      'en': 'Lawyer\'s name:',
     },
     'y8tti84q': {
       'ar': 'ليلى حسن',
-      'en': '',
+      'en': 'Laila Hassan',
     },
     'mlr07cx5': {
       'ar': 'اسم المحكمة:',
-      'en': '',
+      'en': 'Court Name:',
     },
     'k9xzhotq': {
       'ar': 'محكمة الإسكندرية الابتدائية',
-      'en': '',
+      'en': 'Alexandria Primary Court',
     },
     '0jfngli5': {
       'ar': 'اسم القاضي:',
-      'en': '',
+      'en': 'Judge\'s name:',
     },
     'j30gt6ex': {
       'ar': 'القاضي أحمد فؤاد',
-      'en': '',
+      'en': 'Judge Ahmed Fouad',
     },
     'd5zi0ghg': {
       'ar': 'نوع الدعوى:',
-      'en': '',
+      'en': 'Type of claim:',
     },
     'qishnmgu': {
       'ar': 'قضية تجارية',
-      'en': '',
+      'en': 'Business case',
     },
     'z2y9nag1': {
       'ar': 'تاريخ تعيين القضية:',
-      'en': '',
+      'en': 'Case appointment date:',
     },
     'rk6cj4ev': {
       'ar': '10 فبراير 2024',
-      'en': '',
+      'en': 'February 10, 2024',
     },
     'uln1z5x2': {
       'ar': 'معلومات الاتصال',
-      'en': '',
+      'en': 'Contact Information',
     },
     'sfe77050': {
       'ar': 'رقم الهاتف:',
-      'en': '',
+      'en': 'phone number:',
     },
     'h9cr375y': {
       'ar': '03-9876543',
-      'en': '',
+      'en': '03-9876543',
     },
     'jqff97f1': {
       'ar': 'رقم الجوال:',
-      'en': '',
+      'en': 'Mobile number:',
     },
     'n3rymhxf': {
       'ar': '0122-987-6543',
-      'en': '',
+      'en': '0122-987-6543',
     },
     'ukjkkrp3': {
       'ar': 'البريد الإلكتروني:',
-      'en': '',
+      'en': 'e-mail:',
     },
     '8zwr7ich': {
       'ar': 'sara@example.com',
-      'en': '',
+      'en': 'sara@example.com',
     },
     '4k2i8ft1': {
       'ar': 'تاريخ الميلاد:',
-      'en': '',
+      'en': 'date of birth:',
     },
     'qseyx2en': {
       'ar': '15 مارس 1985',
-      'en': '',
+      'en': 'March 15, 1985',
     },
     '251k6kcx': {
       'ar': 'ملخص القضية',
-      'en': '',
+      'en': 'Case Summary',
     },
     'iwxd9g59': {
       'ar':
           'هذه قضية تجارية تتعلق بنزاع حول عقد توريد بضائع. تدعي الموكلة أن الطرف الآخر أخل بشروط العقد مما تسبب في خسائر مادية كبيرة لشركتها.',
-      'en': '',
+      'en':
+          'This is a commercial case involving a dispute over a contract for the supply of goods. The client claims that the other party breached the terms of the contract, causing her company significant financial losses.',
     },
     'qv3js79r': {
       'ar': 'تحميل المستندات',
-      'en': '',
+      'en': 'Upload documents',
     },
     'i6xxaawp': {
       'ar': 'رفع مستند جديد',
-      'en': '',
+      'en': 'Upload a new document',
     },
     've2xb2ta': {
       'ar': 'مواعيد المحكمة وأحكام القاضي',
-      'en': '',
+      'en': 'Court dates and judge\'s rulings',
     },
     'y3iktxd9': {
       'ar': '1 مارس 2024',
-      'en': '',
+      'en': 'March 1, 2024',
     },
     '1a489qva': {
       'ar': 'جلسة استماع أولية',
-      'en': '',
+      'en': 'preliminary hearing',
     },
     'idvourj7': {
       'ar': '15 أبريل 2024',
-      'en': '',
+      'en': 'April 15, 2024',
     },
     'sefxq44c': {
       'ar': 'جلسة تقديم الأدلة',
-      'en': '',
+      'en': 'Evidence presentation session',
     },
     'gxur3kcv': {
       'ar': '10 مايو 2024',
-      'en': '',
+      'en': 'May 10, 2024',
     },
     'ndrh4erf': {
       'ar': 'جلسة استماع للشهود',
-      'en': '',
+      'en': 'Witness hearing',
     },
     'w1b9h3uz': {
       'ar': 'إضافة موعد جديد',
-      'en': '',
+      'en': 'Add new appointment',
     },
     'kdt0mftn': {
       'ar': 'مصاريف الدعوى والمحامي',
-      'en': '',
+      'en': 'Lawsuit and attorney expenses',
     },
     'i5q3ae6f': {
       'ar': 'رسوم المحكمة:',
-      'en': '',
+      'en': 'Court fees:',
     },
     'xnvwk5rb': {
       'ar': '7500 جنيه',
-      'en': '',
+      'en': '7500 pounds',
     },
     'lzksj85w': {
       'ar': 'أتعاب المحامي:',
-      'en': '',
+      'en': 'Attorney\'s fees:',
     },
     'przxhcge': {
       'ar': '15000 جنيه',
-      'en': '',
+      'en': '15000 pounds',
     },
     '2n465eif': {
       'ar': 'مصاريف أخرى:',
-      'en': '',
+      'en': 'Other expenses:',
     },
     'vfwll1ec': {
       'ar': '3000 جنيه',
-      'en': '',
+      'en': '3000 pounds',
     },
     '3bf3gboc': {
       'ar': 'إجمالي المصاريف:',
-      'en': '',
+      'en': 'Total expenses:',
     },
     'nnsfx334': {
       'ar': '25500 جنيه',
-      'en': '',
+      'en': '25500 pounds',
     },
     'xkyadis3': {
       'ar': 'تحديث معلومات القضية',
-      'en': '',
+      'en': 'Update case information',
     },
   },
   // LawyerPaymentsView
   {
     'yxhq9kfo': {
       'ar': 'إدارة المدفوعات',
-      'en': '',
+      'en': 'Payment Management',
     },
     'um7xtg55': {
       'ar': 'التقويم المالي',
-      'en': '',
+      'en': 'Financial Calendar',
     },
     'opz2knlm': {
       'ar': 'تفاصيل المدفوعات',
-      'en': '',
+      'en': 'Payment details',
     },
     'hhosjvgl': {
       'ar': 'قضية رقم ٢٠٢٤-٠٠٥',
-      'en': '',
+      'en': 'Case No. 2024-005',
     },
     '49qf8zlk': {
       'ar': 'شركة الفا للتجارة',
-      'en': '',
+      'en': 'Alpha Trading Company',
     },
     '93gijtk0': {
       'ar': '١٠,٠٠٠ ريال',
-      'en': '',
+      'en': '10,000 riyals',
     },
     'rpmho49l': {
       'ar': '٤ فبراير ٢٠٢٤',
-      'en': '',
+      'en': 'February 4, 2024',
     },
     '2kmx6h8e': {
       'ar': 'قضية رقم ٢٠٢٤-٠٠٣',
-      'en': '',
+      'en': 'Case No. 2024-003',
     },
     '3wdp175z': {
       'ar': 'محمد عبدالله',
-      'en': '',
+      'en': 'Mohammed Abdullah',
     },
     '6ri90cfw': {
       'ar': '٥,٠٠٠ ريال',
-      'en': '',
+      'en': '5,000 riyals',
     },
     'v9q93goi': {
       'ar': '١٠ فبراير ٢٠٢٤',
-      'en': '',
+      'en': 'February 10, 2024',
     },
     'jxfx1xem': {
       'ar': 'المصروفات',
-      'en': '',
+      'en': 'Expenses',
     },
     'l39j7vqo': {
       'ar': 'إجمالي المصروفات',
-      'en': '',
+      'en': 'Total expenses',
     },
     'e8wexac0': {
       'ar': '٣,٥٠٠ ريال',
-      'en': '',
+      'en': '3,500 riyals',
     },
     'u51wykt5': {
       'ar': 'يناير',
-      'en': '',
+      'en': 'January',
     },
     'k8oed03o': {
       'ar': 'فبراير',
-      'en': '',
+      'en': 'February',
     },
     'n50og8wk': {
       'ar': 'مارس',
-      'en': '',
+      'en': 'March',
     },
     'n84bnm8k': {
       'ar': 'أبريل',
-      'en': '',
+      'en': 'April',
     },
     'j4tvgsch': {
       'ar': 'مايو',
-      'en': '',
+      'en': 'May',
     },
     'p4tx6mht': {
       'ar': 'إضافة مدفوعات جديدة',
-      'en': '',
+      'en': 'Add new payments',
     },
   },
   // NotificationPage
   {
     'pbb3c34t': {
       'ar': 'إعدادات الإشعارات',
-      'en': '',
+      'en': 'Notification settings',
     },
     's7nb3gxq': {
       'ar': 'إشعارات العملاء',
-      'en': '',
+      'en': 'Customer Notifications',
     },
     'vv0r1ceh': {
       'ar': 'واتساب',
-      'en': '',
+      'en': 'WhatsApp',
     },
     'jrb1s5ps': {
       'ar': 'البريد الإلكتروني',
-      'en': '',
+      'en': 'e-mail',
     },
     '9fu9jhj1': {
       'ar': 'إشعارات الدفع',
-      'en': '',
+      'en': 'Push Notifications',
     },
     'ndp1o2md': {
       'ar': 'إضافة إلى التقويم',
-      'en': '',
+      'en': 'Add to calendar',
     },
     '6ldvto97': {
       'ar': 'تقويم أندرويد',
-      'en': '',
+      'en': 'Android Calendar',
     },
     'huinsg8w': {
       'ar': 'تقويم آيفون',
-      'en': '',
+      'en': 'iPhone Calendar',
     },
     'hemmnp4p': {
       'ar': 'إرسال رسائل جماعية',
-      'en': '',
+      'en': 'Send bulk messages',
     },
     '8fb1hi2m': {
       'ar': 'عنوان الرسالة',
-      'en': '',
+      'en': 'Message Title',
     },
     'hkqo11gv': {
       'ar': 'نص الرسالة',
-      'en': '',
+      'en': 'Message text',
     },
     'shuw5qg5': {
       'ar': 'إرفاق ملف',
-      'en': '',
+      'en': 'Attach file',
     },
     'z39t12zk': {
       'ar': 'إرسال للعملاء',
-      'en': '',
+      'en': 'Send to customers',
     },
     'w0lh8fqe': {
       'ar': 'إعدادات متقدمة',
-      'en': '',
+      'en': 'Advanced Settings',
     },
     'wfre7nax': {
       'ar': 'تفعيل الإشعارات الصوتية',
-      'en': '',
+      'en': 'Enable sound notifications',
     },
     'snwkth2u': {
       'ar': 'عرض معاينة الرسائل',
-      'en': '',
+      'en': 'Show message preview',
     },
     'fpk09x0h': {
       'ar': 'حفظ التغييرات',
-      'en': '',
+      'en': 'Save changes',
     },
     'b5vp83gc': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // AdminDashboard
   {
     'l1rwdxns': {
       'ar': 'لوحة التحكم',
-      'en': '',
+      'en': 'Control panel',
     },
     'zk26af9o': {
       'ar': 'نظرة عامة',
-      'en': '',
+      'en': 'Overview',
     },
     'nwu3ndtz': {
       'ar': 'القضايا النشطة',
-      'en': '',
+      'en': 'Active Issues',
     },
     'mfxeuuzm': {
       'ar': '78',
-      'en': '',
+      'en': '78',
     },
     'bgucml3w': {
       'ar': 'العملاء',
-      'en': '',
+      'en': 'Clients',
     },
     'x3xmacj8': {
       'ar': '156',
-      'en': '',
+      'en': '156',
     },
     'b4kozdd5': {
       'ar': 'المحامون',
-      'en': '',
+      'en': 'Lawyers',
     },
     'mhc67m84': {
       'ar': '12',
-      'en': '',
+      'en': '12',
     },
     'mqv8yqyy': {
       'ar': 'الوصول السريع',
-      'en': '',
+      'en': 'Quick access',
     },
     '4zrzawzo': {
       'ar': 'إدارة المستخدمين',
-      'en': '',
+      'en': 'User management',
     },
     '9fntvjbe': {
       'ar': 'إدارة القضايا',
-      'en': '',
+      'en': 'Case Management',
     },
     'q40u7quo': {
       'ar': 'جدول المواعيد',
-      'en': '',
+      'en': 'schedule',
     },
     'oczs9zir': {
       'ar': 'حالة القضايا',
-      'en': '',
+      'en': 'Case status',
     },
     'yfxk2kv2': {
       'ar': 'قيد النظر',
-      'en': '',
+      'en': 'Under consideration',
     },
     'y50fcxh2': {
       'ar': '32',
-      'en': '',
+      'en': '32',
     },
     'zd7r7cjt': {
       'ar': 'جارية',
-      'en': '',
+      'en': 'ongoing',
     },
     'yqzpdwld': {
       'ar': '41',
-      'en': '',
+      'en': '41',
     },
     'p0sbtnfa': {
       'ar': 'مغلقة',
-      'en': '',
+      'en': 'Closed',
     },
     'i5vnbdka': {
       'ar': '5',
-      'en': '',
+      'en': '5',
     },
     'zdbtl7sh': {
       'ar': 'المواعيد القادمة',
-      'en': '',
+      'en': 'Upcoming appointments',
     },
     'phqg5fjw': {
       'ar': 'جلسة محكمة - قضية رقم 2024/001',
-      'en': '',
+      'en': 'Court Session - Case No. 2024/001',
     },
     'oh1pvcly': {
       'ar': '15 مايو 2024',
-      'en': '',
+      'en': 'May 15, 2024',
     },
     'dcpxz34y': {
       'ar': 'قريب',
-      'en': '',
+      'en': 'close',
     },
     '9u1r1eom': {
       'ar': 'اجتماع مع العميل - شركة الفا',
-      'en': '',
+      'en': 'Meeting with the client - Alpha Company',
     },
     'hoidflez': {
       'ar': '20 مايو 2024',
-      'en': '',
+      'en': 'May 20, 2024',
     },
     'xvcsn1dh': {
       'ar': 'قادم',
-      'en': '',
+      'en': 'coming',
     },
     'rnk1irmh': {
       'ar': 'ملخص المدفوعات',
-      'en': '',
+      'en': 'Payment Summary',
     },
     'ifre7mvs': {
       'ar': 'إجمالي الدخل',
-      'en': '',
+      'en': 'Total income',
     },
     'bnkhpw4r': {
       'ar': '500,000 د.إ',
-      'en': '',
+      'en': '500,000 AED',
     },
     'evaj4vs1': {
       'ar': 'مستحقات',
-      'en': '',
+      'en': 'Dues',
     },
     'cmmkj2z3': {
       'ar': '75,000 د.إ',
-      'en': '',
+      'en': '75,000 AED',
     },
     'ty7ttq2z': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // UserManagement
   {
     'm03m63tl': {
       'ar': 'إدارة المستخدمين',
-      'en': '',
+      'en': 'User management',
     },
     'ih6n1lfu': {
       'ar': 'إدارة العملاء والمحامين والموظفين',
-      'en': '',
+      'en': 'Client, Lawyer and Staff Management',
     },
     'mb8q5kv6': {
       'ar': 'إدارة العملاء',
-      'en': '',
+      'en': 'Customer Management',
     },
     'go7fscxg': {
       'ar': 'بحث عن عميل',
-      'en': '',
+      'en': 'Search for a client',
     },
     '03buyls6': {
       'ar': 'أحمد محمد',
-      'en': '',
+      'en': 'Ahmed Mohammed',
     },
     'ugdbb4gt': {
       'ar': 'ahmed@example.com',
-      'en': '',
+      'en': 'ahmed@example.com',
     },
     '6w0ai8iv': {
       'ar': 'تعديل',
-      'en': '',
+      'en': 'amendment',
     },
     'raee0rvf': {
       'ar': 'تفعيل',
-      'en': '',
+      'en': 'activation',
     },
     '9mpe7nqb': {
       'ar': ' تعيين كلمة المرور',
-      'en': '',
+      'en': 'Set password',
     },
     'k86d2xxv': {
       'ar': 'فاطمة علي',
-      'en': '',
+      'en': 'Fatima Ali',
     },
     'y7t1ikiq': {
       'ar': 'fatima@example.com',
-      'en': '',
+      'en': 'fatima@example.com',
     },
     '2ok7bqcv': {
       'ar': 'تعديل',
-      'en': '',
+      'en': 'amendment',
     },
     'q0ba4kl1': {
       'ar': 'تعطيل',
-      'en': '',
+      'en': 'Disable',
     },
     '4f1jfrbo': {
       'ar': ' تعيين كلمة المرور',
-      'en': '',
+      'en': 'Set password',
     },
     'cflv3i3q': {
       'ar': 'إدارة المحامين',
-      'en': '',
+      'en': 'Lawyers Management',
     },
     'nwyc05t8': {
       'ar': 'بحث عن محامي',
-      'en': '',
+      'en': 'Search for a lawyer',
     },
     '4ol2pumt': {
       'ar': 'محمد خالد',
-      'en': '',
+      'en': 'Mohamed Khaled',
     },
     '1e74dyh0': {
       'ar': 'القانون التجاري',
-      'en': '',
+      'en': 'Commercial Law',
     },
     'm74fkpgf': {
       'ar': 'تعديل الملف',
-      'en': '',
+      'en': 'Edit file',
     },
     'y3ha4pxj': {
       'ar': 'تعيين قضية',
-      'en': '',
+      'en': 'Assign a case',
     },
     '5gokmzrv': {
       'ar': 'سارة أحمد',
-      'en': '',
+      'en': 'Sarah Ahmed',
     },
     'frqa49hc': {
       'ar': 'قانون الأسرة',
-      'en': '',
+      'en': 'Family Law',
     },
     'sag8anmc': {
       'ar': 'تعديل الملف',
-      'en': '',
+      'en': 'Edit file',
     },
     '2padia88': {
       'ar': 'تعيين قضية',
-      'en': '',
+      'en': 'Assign a case',
     },
     'vvk04mll': {
       'ar': 'إضافة محامي جديد',
-      'en': '',
+      'en': 'Add a new lawyer',
     },
     'tguwndwv': {
       'ar': 'إدارة الموظفين',
-      'en': '',
+      'en': 'Staff Management',
     },
     '0tg5nbbz': {
       'ar': 'بحث عن موظف',
-      'en': '',
+      'en': 'Search for an employee',
     },
     'cmx1d6fy': {
       'ar': 'ليلى عمر',
-      'en': '',
+      'en': 'Laila Omar',
     },
     'q2pigy65': {
       'ar': 'سكرتيرة',
-      'en': '',
+      'en': 'secretary',
     },
     '66503d1w': {
       'ar': 'تعديل الصلاحيات',
-      'en': '',
+      'en': 'Modify permissions',
     },
     'uz7v6xy0': {
       'ar': 'تعديل الملف',
-      'en': '',
+      'en': 'Edit file',
     },
     'xlt7zdyl': {
       'ar': 'كريم حسن',
-      'en': '',
+      'en': 'Karim Hassan',
     },
     'oif60du8': {
       'ar': 'محاسب',
-      'en': '',
+      'en': 'accountant',
     },
     'tph2gil8': {
       'ar': 'تعديل الصلاحيات',
-      'en': '',
+      'en': 'Modify permissions',
     },
     '9sl9c0r2': {
       'ar': 'تعديل الملف',
-      'en': '',
+      'en': 'Edit file',
     },
     '5ft5td8o': {
       'ar': 'إضافة موظف جديد',
-      'en': '',
+      'en': 'Add a new employee',
     },
     'tdk20v38': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // CaseManagement
   {
     'qgynb3xe': {
       'ar': 'إدارة القضايا',
-      'en': '',
+      'en': 'Case Management',
     },
     'dr3d4bz0': {
       'ar': 'تتبع وإدارة جميع القضايا',
-      'en': '',
+      'en': 'Track and manage all issues',
     },
     '6a9xj18a': {
       'ar': 'تصفية القضايا',
-      'en': '',
+      'en': 'Clearing cases',
     },
     '0210r8zh': {
       'ar': 'نشطة',
-      'en': '',
+      'en': 'Active',
     },
     'xlym36p8': {
       'ar': 'مؤرشفة',
-      'en': '',
+      'en': 'Archived',
     },
     '3hscfd24': {
       'ar': 'العميل',
-      'en': '',
+      'en': 'Client',
     },
     'os7x5znm': {
       'ar': 'المحامي',
-      'en': '',
+      'en': 'Lawyer',
     },
     'pxtl0arp': {
       'ar': 'نوع القضية',
-      'en': '',
+      'en': 'Case type',
     },
     '47k8khxt': {
       'ar': 'القضايا النشطة',
-      'en': '',
+      'en': 'Active Issues',
     },
     '1mh1577n': {
       'ar': 'قضية رقم 2024-001',
-      'en': '',
+      'en': 'Case No. 2024-001',
     },
     '04la1fcn': {
       'ar': 'نشطة',
-      'en': '',
+      'en': 'Active',
     },
     'f3f9io6h': {
       'ar': 'العميل: شركة الأمل للتجارة',
-      'en': '',
+      'en': 'Client: Al Amal Trading Company',
     },
     'yvj8h1e6': {
       'ar': 'المحامي: أحمد محمود',
-      'en': '',
+      'en': 'Lawyer: Ahmed Mahmoud',
     },
     'o7yjux26': {
       'ar': 'نوع القضية: نزاع تجاري',
-      'en': '',
+      'en': 'Case Type: Commercial Dispute',
     },
     't7esaftm': {
       'ar': 'تعديل',
-      'en': '',
+      'en': 'amendment',
     },
     'cdgtua4g': {
       'ar': 'المستندات',
-      'en': '',
+      'en': 'Documents',
     },
     'qmep3wzc': {
       'ar': 'التقدم',
-      'en': '',
+      'en': 'Progress',
     },
     'u71lmxjf': {
       'ar': 'قضية رقم 2024-002',
-      'en': '',
+      'en': 'Case No. 2024-002',
     },
     'aibppqbj': {
       'ar': 'قيد المراجعة',
-      'en': '',
+      'en': 'Under review',
     },
     'ofo16mr8': {
       'ar': 'العميل: محمد علي',
-      'en': '',
+      'en': 'Client: Mohamed Ali',
     },
     'fk52qw70': {
       'ar': 'المحامي: سارة حسن',
-      'en': '',
+      'en': 'Lawyer: Sarah Hassan',
     },
     'fzr8bgtl': {
       'ar': 'نوع القضية: قضية عمالية',
-      'en': '',
+      'en': 'Case Type: Labor Case',
     },
     'nj6n91s9': {
       'ar': 'تعديل',
-      'en': '',
+      'en': 'amendment',
     },
     'ovy3rya4': {
       'ar': 'المستندات',
-      'en': '',
+      'en': 'Documents',
     },
     '0xjrwydp': {
       'ar': 'التقدم',
-      'en': '',
+      'en': 'Progress',
     },
     '1ynhnxy6': {
       'ar': 'المواعيد القادمة',
-      'en': '',
+      'en': 'Upcoming appointments',
     },
     'o8u6sgeo': {
       'ar': 'جلسة محكمة - قضية رقم 2024-001',
-      'en': '',
+      'en': 'Court Session - Case No. 2024-001',
     },
     'o0kmbo5b': {
       'ar': '20 مايو، 2024 - 9:00 ص',
-      'en': '',
+      'en': 'May 20, 2024 - 9:00 AM',
     },
     'cjowz95f': {
       'ar': 'اجتماع مع العميل - قضية رقم 2024-002',
-      'en': '',
+      'en': 'Meeting with Client - Case No. 2024-002',
     },
     'ep3c7hx6': {
       'ar': '22 مايو، 2024 - 11:00 ص',
-      'en': '',
+      'en': 'May 22, 2024 - 11:00 AM',
     },
     '4sdr2bua': {
       'ar': 'إضافة قضية جديدة',
-      'en': '',
+      'en': 'Add a new case',
     },
     'n7pzu8ff': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // DocumentManagement
   {
     'zgme7559': {
       'ar': 'إدارة الوثائق',
-      'en': '',
+      'en': 'Document management',
     },
     '47ys62em': {
       'ar': 'مستودع الوثائق',
-      'en': '',
+      'en': 'Document repository',
     },
     's9mhwdeh': {
       'ar': 'بحث في الوثائق...',
-      'en': '',
+      'en': 'Search documents...',
     },
     '2d0gdjze': {
       'ar': 'عقود',
-      'en': '',
+      'en': 'Contracts',
     },
     'aqrst7pz': {
       'ar': 'مذكرات قانونية',
-      'en': '',
+      'en': 'Legal Notes',
     },
     'dyw3yeag': {
       'ar': 'قضايا',
-      'en': '',
+      'en': 'Issues',
     },
     'hui8jwfy': {
       'ar': 'وثائق إدارية',
-      'en': '',
+      'en': 'Administrative documents',
     },
     'njagems8': {
       'ar': 'عقد توظيف - شركة الفا',
-      'en': '',
+      'en': 'Employment Contract - Alpha Company',
     },
     'p3vjtj4t': {
       'ar': 'تم الرفع بواسطة: أحمد محمد',
-      'en': '',
+      'en': 'Uploaded by: Ahmed Mohamed',
     },
     '9l89qc99': {
       'ar': 'مذكرة دفاع - قضية رقم 123',
-      'en': '',
+      'en': 'Defense Memorandum - Case No. 123',
     },
     'nqjniqye': {
       'ar': 'تم الرفع بواسطة: فاطمة علي',
-      'en': '',
+      'en': 'Uploaded by: Fatima Ali',
     },
     'fg93i5a1': {
       'ar': 'لائحة دعوى - قضية رقم 456',
-      'en': '',
+      'en': 'Lawsuit - Case No. 456',
     },
     'ult5bezo': {
       'ar': 'تم الرفع بواسطة: خالد عمر',
-      'en': '',
+      'en': 'Uploaded by: Khaled Omar',
     },
     '4yawnobn': {
       'ar': 'إحصائيات الوثائق',
-      'en': '',
+      'en': 'Document Statistics',
     },
     'yoftivxu': {
       'ar': 'إجمالي الوثائق',
-      'en': '',
+      'en': 'Total documents',
     },
     'l7j7yw4d': {
       'ar': '1,234',
-      'en': '',
+      'en': '1,234',
     },
     '541fyy2q': {
       'ar': 'بانتظار المراجعة',
-      'en': '',
+      'en': 'Waiting for review',
     },
     '38omyr3j': {
       'ar': '28',
-      'en': '',
+      'en': '28',
     },
     'ibru28pc': {
       'ar': 'تمت الموافقة',
-      'en': '',
+      'en': 'Approved',
     },
     'm2zfmgl8': {
       'ar': '1,156',
-      'en': '',
+      'en': '1,156',
     },
     'lc207e1f': {
       'ar': 'رفع وثيقة جديدة',
-      'en': '',
+      'en': 'Upload new document',
     },
   },
   // NotificationsCommunicationSettings
   {
     'vv45hz3l': {
       'ar': 'إعدادات التواصل',
-      'en': '',
+      'en': 'Communication settings',
     },
     'b5r7qhw5': {
       'ar': 'إدارة قوالب الإشعارات وتخصيص التنبيهات',
-      'en': '',
+      'en': 'Manage notification templates and customize alerts',
     },
     '9zjbgchl': {
       'ar': 'قوالب الإشعارات',
-      'en': '',
+      'en': 'Notification templates',
     },
     'm8cfyjzw': {
       'ar': 'واتساب',
-      'en': '',
+      'en': 'WhatsApp',
     },
     'b2mtda0w': {
       'ar': 'تكوين قالب رسائل واتساب',
-      'en': '',
+      'en': 'Create a WhatsApp message template',
     },
     'v3n3hqj8': {
       'ar': 'البريد الإلكتروني',
-      'en': '',
+      'en': 'e-mail',
     },
     '33ewyt6p': {
       'ar': 'تخصيص قوالب البريد الإلكتروني',
-      'en': '',
+      'en': 'Customize email templates',
     },
     'd9mztkv7': {
       'ar': 'إشعارات الدفع',
-      'en': '',
+      'en': 'Push Notifications',
     },
     '96zzr9o4': {
       'ar': 'إعداد إشعارات التطبيق',
-      'en': '',
+      'en': 'Set up app notifications',
     },
     'tmfq1fpv': {
       'ar': 'إعدادات التنبيهات العامة',
-      'en': '',
+      'en': 'General Notification Settings',
     },
     'r3e8ur8z': {
       'ar': 'تنبيهات الجلسات',
-      'en': '',
+      'en': 'Session Alerts',
     },
     'svb693we': {
       'ar': 'تذكيرات المواعيد',
-      'en': '',
+      'en': 'Appointment Reminders',
     },
     'n9814cgt': {
       'ar': 'تحديثات القضايا',
-      'en': '',
+      'en': 'Case Updates',
     },
     '35vwe65p': {
       'ar': 'الرسائل الجماعية',
-      'en': '',
+      'en': 'Bulk messages',
     },
     'bptv3h1m': {
       'ar': 'عنوان الرسالة',
-      'en': '',
+      'en': 'Message Title',
     },
     'dk7px73t': {
       'ar': 'نص الرسالة',
-      'en': '',
+      'en': 'Message text',
     },
     'iw26cv7a': {
       'ar': 'إضافة مرفقات',
-      'en': '',
+      'en': 'Add attachments',
     },
     'd2lhe91b': {
       'ar': 'إرسال',
-      'en': '',
+      'en': 'send',
     },
     'gwsjvsl2': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // AppointmentCalendarManagement
   {
     '8gqhkv71': {
       'ar': 'إدارة التقويم',
-      'en': '',
+      'en': 'Calendar management',
     },
     'axnbd0si': {
       'ar': 'جدولة وإدارة المواعيد',
-      'en': '',
+      'en': 'Scheduling and managing appointments',
     },
     'wdijtrvo': {
       'ar': 'التقويم',
-      'en': '',
+      'en': 'Calendar',
     },
     'qb7mq81k': {
       'ar': 'المواعيد القادمة',
-      'en': '',
+      'en': 'Upcoming appointments',
     },
     'sktwos8u': {
       'ar': 'إضافة موعد',
-      'en': '',
+      'en': 'Add an appointment',
     },
     '8xd6t9h9': {
       'ar': 'اجتماع مع العميل أحمد',
-      'en': '',
+      'en': 'Meeting with client Ahmed',
     },
     'xr5b8xh1': {
       'ar': '15 يونيو 2024 - 10:00 ص',
-      'en': '',
+      'en': 'June 15, 2024 - 10:00 AM',
     },
     '9v5c6855': {
       'ar': 'جلسة محكمة - قضية رقم 123',
-      'en': '',
+      'en': 'Court Session - Case No. 123',
     },
     'qv5tu5on': {
       'ar': '20 يونيو 2024 - 11:30 ص',
-      'en': '',
+      'en': 'June 20, 2024 - 11:30 AM',
     },
     'x19agrio': {
       'ar': 'مزامنة التقويم',
-      'en': '',
+      'en': 'Calendar sync',
     },
     '9egk5ky5': {
       'ar': 'مزامنة مع Google Calendar',
-      'en': '',
+      'en': 'Sync with Google Calendar',
     },
     'vrld5sls': {
       'ar': 'مزامنة مع Outlook',
-      'en': '',
+      'en': 'Sync with Outlook',
     },
     'wogpnzbg': {
       'ar': 'التذكيرات',
-      'en': '',
+      'en': 'Reminders',
     },
     'uls8qez5': {
       'ar': 'تذكير قبل الموعد بـ',
-      'en': '',
+      'en': 'Reminder before appointment',
     },
     '97fkf8c0': {
       'ar': '30 دقيقة',
-      'en': '',
+      'en': '30 minutes',
     },
     'jmom7xc1': {
       'ar': 'حفظ الإعدادات',
-      'en': '',
+      'en': 'Save settings',
     },
     'r3idjp8p': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // PaymentandFinancialOverview
   {
     'sb893b8o': {
       'ar': 'النظرة المالية',
-      'en': '',
+      'en': 'Financial outlook',
     },
     'voorwj8m': {
       'ar': 'ملخص مالي',
-      'en': '',
+      'en': 'Financial Summary',
     },
     'dyknlw1b': {
       'ar': 'إجمالي الإيرادات',
-      'en': '',
+      'en': 'Total Revenue',
     },
     'nr9fg9an': {
       'ar': '١٥٠,٠٠٠ ريال',
-      'en': '',
+      'en': '150,000 riyals',
     },
     '35aakrsq': {
       'ar': 'إجمالي المصروفات',
-      'en': '',
+      'en': 'Total expenses',
     },
     'atsourao': {
       'ar': '٧٥,٠٠٠ ريال',
-      'en': '',
+      'en': '75,000 riyals',
     },
     'mgp2uw46': {
       'ar': 'جدول المدفوعات',
-      'en': '',
+      'en': 'Payment schedule',
     },
     '0fdwuvvt': {
       'ar': 'العميل',
-      'en': '',
+      'en': 'Client',
     },
     'v0ie371h': {
       'ar': 'المبلغ',
-      'en': '',
+      'en': 'Amount',
     },
     '3zmsjj6l': {
       'ar': 'تاريخ الاستحقاق',
-      'en': '',
+      'en': 'due date',
     },
     'bdzwurdv': {
       'ar': 'أحمد محمد',
-      'en': '',
+      'en': 'Ahmed Mohammed',
     },
     'f5fzvv9d': {
       'ar': '٥,٠٠٠ ريال',
-      'en': '',
+      'en': '5,000 riyals',
     },
     'tn2vs6xh': {
       'ar': '٢٠٢٤/٠٥/١٥',
-      'en': '',
+      'en': '05/15/2024',
     },
     '36itrp14': {
       'ar': 'فاطمة علي',
-      'en': '',
+      'en': 'Fatima Ali',
     },
     '4zkbxcue': {
       'ar': '٧,٥٠٠ ريال',
-      'en': '',
+      'en': '7,500 riyals',
     },
     '84p430xx': {
       'ar': '٢٠٢٤/٠٥/٢٠',
-      'en': '',
+      'en': '05/20/2024',
     },
     'xpy0o14m': {
       'ar': 'عرض الكل',
-      'en': '',
+      'en': 'Show all',
     },
     'f8zp5vrv': {
       'ar': 'مصروفات القضايا والمحامين',
-      'en': '',
+      'en': 'Case and lawyer expenses',
     },
     'z9xkmnsc': {
       'ar': 'القضية/المحامي',
-      'en': '',
+      'en': 'Case/Lawyer',
     },
     'qvlxhumb': {
       'ar': 'المبلغ',
-      'en': '',
+      'en': 'Amount',
     },
     '5xo5zauq': {
       'ar': 'قضية رقم ٢٣٤',
-      'en': '',
+      'en': 'Case No. 234',
     },
     'r4ykicpm': {
       'ar': '٣,٠٠٠ ريال',
-      'en': '',
+      'en': '3,000 riyals',
     },
     'nhtc0jgq': {
       'ar': 'المحامي خالد',
-      'en': '',
+      'en': 'Lawyer Khaled',
     },
     'o2i8pt5g': {
       'ar': '٥,٥٠٠ ريال',
-      'en': '',
+      'en': '5,500 riyals',
     },
     'ohftactb': {
       'ar': 'إضافة مصروف',
-      'en': '',
+      'en': 'Add expense',
     },
     'fcdlx1za': {
       'ar': 'التقارير المالية',
-      'en': '',
+      'en': 'Financial reports',
     },
     't1oijo25': {
       'ar': 'تقرير شهري',
-      'en': '',
+      'en': 'Monthly report',
     },
     'g83d5sof': {
       'ar': 'يناير ٢٠٢٤',
-      'en': '',
+      'en': 'January 2024',
     },
     '1tiy1u80': {
       'ar': 'تحميل',
-      'en': '',
+      'en': 'download',
     },
     '5w5l18hq': {
       'ar': 'تقرير ربع سنوي',
-      'en': '',
+      'en': 'Quarterly Report',
     },
     'ang21ayo': {
       'ar': 'الربع الأول ٢٠٢٤',
-      'en': '',
+      'en': 'Q1 2024',
     },
     'hp9jdbhj': {
       'ar': 'تحميل',
-      'en': '',
+      'en': 'download',
     },
     'mtmlxvt4': {
       'ar': 'إنشاء تقرير مخصص',
-      'en': '',
+      'en': 'Create a custom report',
     },
     'oq7k2aer': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // ReportsandAnalytics
   {
     'pgksdy4s': {
       'ar': 'التقارير والتحليلات',
-      'en': '',
+      'en': 'Reports and Analysis',
     },
     'tm0lvi8n': {
       'ar': 'إدارة وتحليل بيانات المكتب',
-      'en': '',
+      'en': 'Office data management and analysis',
     },
     '71uu3l5k': {
       'ar': 'إنشاء تقرير مخصص',
-      'en': '',
+      'en': 'Create a custom report',
     },
     'yo6jjpqh': {
       'ar': 'نوع التقرير',
-      'en': '',
+      'en': 'Report Type',
     },
     'qbkhkub8': {
       'ar': 'اختر نوع التقرير',
-      'en': '',
+      'en': 'Select report type',
     },
     'ik81q200': {
       'ar': 'الفترة الزمنية',
-      'en': '',
+      'en': 'Time period',
     },
     '7ur0t9xi': {
       'ar': 'حدد الفترة',
-      'en': '',
+      'en': 'Specify the period',
     },
     '3kto2h91': {
       'ar': 'إنشاء التقرير',
-      'en': '',
+      'en': 'Create report',
     },
     '30slmzfb': {
       'ar': 'نظرة عامة على النشاط',
-      'en': '',
+      'en': 'Activity Overview',
     },
     'eq6p9umq': {
       'ar': 'القضايا النشطة',
-      'en': '',
+      'en': 'Active Issues',
     },
     '1z9pwm9g': {
       'ar': '78',
-      'en': '',
+      'en': '78',
     },
     'u3rgjmhr': {
       'ar': 'المحامون النشطون',
-      'en': '',
+      'en': 'Active Lawyers',
     },
     '8vwiwont': {
       'ar': '12',
-      'en': '',
+      'en': '12',
     },
     'tl1lx6lg': {
       'ar': 'العملاء الجدد',
-      'en': '',
+      'en': 'New clients',
     },
     'xd5k7cdb': {
       'ar': '23',
-      'en': '',
+      'en': '23',
     },
     '7mkh53jh': {
       'ar': 'تحليل الإشعارات والتفاعل',
-      'en': '',
+      'en': 'Notification and engagement analysis',
     },
     'vfdxz7mz': {
       'ar': 'معدل فتح الإشعارات',
-      'en': '',
+      'en': 'Notification open rate',
     },
     'a7v57gln': {
       'ar': '68%',
-      'en': '',
+      'en': '68%',
     },
     '626euwvp': {
       'ar': 'معدل الاستجابة',
-      'en': '',
+      'en': 'Response rate',
     },
     'ghbfu1oj': {
       'ar': '92%',
-      'en': '',
+      'en': '92%',
     },
     'ds7bjsbz': {
       'ar': 'رسم بياني لتفاعل المستخدمين',
-      'en': '',
+      'en': 'User interaction chart',
     },
     'msdrpr7n': {
       'ar': 'التقدم المالي',
-      'en': '',
+      'en': 'Financial progress',
     },
     'idkaste2': {
       'ar': 'رسم بياني للإيرادات والمصروفات',
-      'en': '',
+      'en': 'Revenue and Expense Chart',
     },
     'nxwr2oo4': {
       'ar': 'إجمالي الإيرادات',
-      'en': '',
+      'en': 'Total Revenue',
     },
     '9qief6y7': {
       'ar': '1,250,000 ر.س',
-      'en': '',
+      'en': '1,250,000 SAR',
     },
     'ffm1iy7r': {
       'ar': 'إجمالي المصروفات',
-      'en': '',
+      'en': 'Total expenses',
     },
     'qqlb6o2z': {
       'ar': '850,000 ر.س',
-      'en': '',
+      'en': '850,000 SAR',
     },
     'p165tf5p': {
       'ar': 'أداء المحامين',
-      'en': '',
+      'en': 'Lawyers\' performance',
     },
     '522lqr9x': {
       'ar': 'رسم بياني لعبء العمل وإنجاز القضايا',
-      'en': '',
+      'en': 'Workload and Case Completion Chart',
     },
     'ejpxejce': {
       'ar': 'عرض التفاصيل',
-      'en': '',
+      'en': 'Show details',
     },
     'ki580q93': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // SystemSettings
   {
     'usnn8a3b': {
       'ar': 'إعدادات النظام',
-      'en': '',
+      'en': 'System Settings',
     },
     'tjidncwr': {
       'ar': 'إدارة الأدوار والصلاحيات',
-      'en': '',
+      'en': 'Role and Permission Management',
     },
     'qkihd3d0': {
       'ar': 'تكوين الأدوار',
-      'en': '',
+      'en': 'Role formation',
     },
     'kiact0id': {
       'ar': 'تعيين مستويات الوصول',
-      'en': '',
+      'en': 'Set access levels',
     },
     '3knv4mzb': {
       'ar': 'إضافة دور جديد',
-      'en': '',
+      'en': 'Add new role',
     },
     'l933tg3u': {
       'ar': 'إدارة القوالب القانونية',
-      'en': '',
+      'en': 'Legal Template Management',
     },
     'zycfjf7k': {
       'ar': 'قوالب العقود',
-      'en': '',
+      'en': 'Contract templates',
     },
     'dicusckh': {
       'ar': 'قوالب الدعاوى',
-      'en': '',
+      'en': 'lawsuit templates',
     },
     'klsn6y52': {
       'ar': 'قوالب الاستشارات',
-      'en': '',
+      'en': 'Consulting templates',
     },
     '6luk0o00': {
       'ar': 'إضافة قالب جديد',
-      'en': '',
+      'en': 'Add new template',
     },
     'tqq7qo6s': {
       'ar': 'سياسات البيانات والخصوصية',
-      'en': '',
+      'en': 'Data and Privacy Policies',
     },
     '23dcjpdl': {
       'ar': 'سياسة الخصوصية',
-      'en': '',
+      'en': 'privacy policy',
     },
     'qhp5a7ip': {
       'ar': 'شروط الاستخدام',
-      'en': '',
+      'en': 'terms of use',
     },
     'atxoycn7': {
       'ar': 'سياسة الاحتفاظ بالبيانات',
-      'en': '',
+      'en': 'Data Retention Policy',
     },
     'gnc52bs6': {
       'ar': 'تحديث السياسات',
-      'en': '',
+      'en': 'Policy Update',
     },
     'n3unx4rh': {
       'ar': 'النسخ الاحتياطي والتصدير',
-      'en': '',
+      'en': 'Backup and Export',
     },
     'm3om4t00': {
       'ar': 'إنشاء نسخة احتياطية',
-      'en': '',
+      'en': 'Create a backup',
     },
     'sc5fbg93': {
       'ar': 'استعادة من نسخة احتياطية',
-      'en': '',
+      'en': 'Restore from backup',
     },
     'j7raphzo': {
       'ar': 'تصدير البيانات',
-      'en': '',
+      'en': 'Export data',
     },
     'rxu85xzg': {
       'ar': 'جدولة النسخ الاحتياطي التلقائي',
-      'en': '',
+      'en': 'Schedule automatic backup',
     },
     's8gmhv8b': {
       'ar': 'جميع الحقوق محفوظة © 2024 مكتب يموت للمحاماة',
-      'en': '',
+      'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
   // FeedbackandSupport
   {
     'jkvozdl8': {
       'ar': 'لوحة التحكم',
-      'en': '',
+      'en': 'Control panel',
     },
     'jw67lj95': {
       'ar': 'ملاحظات العملاء والمحامين',
-      'en': '',
+      'en': 'Client and Lawyer Feedback',
     },
     'o7vfsdaf': {
       'ar': 'أحمد محمد',
-      'en': '',
+      'en': 'Ahmed Mohammed',
     },
     'gxpsd9u0': {
       'ar': 'خدمة ممتازة وسريعة',
-      'en': '',
+      'en': 'Excellent and fast service',
     },
     'h3709m8x': {
       'ar': 'عميل',
-      'en': '',
+      'en': 'client',
     },
     '7z7qsfog': {
       'ar': 'سارة أحمد',
-      'en': '',
+      'en': 'Sarah Ahmed',
     },
     'w74gon3c': {
       'ar': 'تجربة إيجابية مع المكتب',
-      'en': '',
+      'en': 'Positive experience with the office',
     },
     'iu9px7o4': {
       'ar': 'محامي',
-      'en': '',
+      'en': 'lawyer',
     },
     'ek4hg54d': {
       'ar': 'تذاكر الدعم',
-      'en': '',
+      'en': 'Support Tickets',
     },
     'rcvqpfrn': {
       'ar': 'مشكلة في تسجيل الدخول',
-      'en': '',
+      'en': 'Problem logging in',
     },
     'ooorrffb': {
       'ar': 'لم أتمكن من تسجيل الدخول...',
-      'en': '',
+      'en': 'I couldn\'t log in...',
     },
     'xm7zznzs': {
       'ar': 'الرد',
-      'en': '',
+      'en': 'Reply',
     },
     'mr9hfa6i': {
       'ar': 'استفسار عن الخدمات',
-      'en': '',
+      'en': 'Inquiry about services',
     },
     'xfxk8rgc': {
       'ar': 'هل يمكنكم توضيح الخدمات...',
-      'en': '',
+      'en': 'Can you please explain the services...',
     },
     'v11munvz': {
       'ar': 'الرد',
-      'en': '',
+      'en': 'Reply',
     },
     'cfwj2qb1': {
       'ar': 'الأسئلة الشائعة والأدلة',
-      'en': '',
+      'en': 'FAQs & Guides',
     },
     'jpzrwdkh': {
       'ar': 'الأسئلة الشائعة',
-      'en': '',
+      'en': 'Frequently Asked Questions',
     },
     'kffim7ri': {
       'ar': 'دليل المستخدم',
-      'en': '',
+      'en': 'User Manual',
     },
     'lyt7o89b': {
       'ar': 'إضافة محتوى جديد',
-      'en': '',
+      'en': 'Add new content',
     },
   },
   // Miscellaneous
@@ -2164,42 +2173,50 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'k1leozod': {
       'ar':
           'The app needs access to your photo library to allow you to upload important documents or images related to your cases. Your privacy and data security are our top priorities.',
-      'en': '',
+      'en':
+          'The app needs access to your photo library to allow you to upload important documents or images related to your cases. Your privacy and data security are our top priorities.',
     },
     'cirb7ekk': {
       'ar':
           'We would like to send you notifications about important updates, reminders, and alerts related to your cases. This ensures you stay informed in real-time.',
-      'en': '',
+      'en':
+          'We would like to send you notifications about important updates, reminders, and alerts related to your cases. This ensures you stay informed in real-time.',
     },
     '2lmi231r': {
       'ar':
           'We request access to your location to provide you with relevant legal services and updates based on your current whereabouts. This feature will enhance your experience with location-specific information.',
-      'en': '',
+      'en':
+          'We request access to your location to provide you with relevant legal services and updates based on your current whereabouts. This feature will enhance your experience with location-specific information.',
     },
     's19rv7ct': {
       'ar':
           'The app requires access to your camera to allow you to take photos of documents and evidence directly from your device for case submissions. Your privacy is important to us.',
-      'en': '',
+      'en':
+          'The app requires access to your camera to allow you to take photos of documents and evidence directly from your device for case submissions. Your privacy is important to us.',
     },
     'qj743fsf': {
       'ar':
           'We would like to use your biometric data (fingerprint/face recognition) to securely log you into the app. This allows for a faster and safer user experience.',
-      'en': '',
+      'en':
+          'We would like to use your biometric data (fingerprint/face recognition) to securely log you into the app. This allows for a faster and safer user experience.',
     },
     '4vadcpg7': {
       'ar':
           'We request access to your calendar to schedule important events, court dates, and reminders related to your cases. This will help you keep track of key dates easily.',
-      'en': '',
+      'en':
+          'We request access to your calendar to schedule important events, court dates, and reminders related to your cases. This will help you keep track of key dates easily.',
     },
     'qvowow4c': {
       'ar':
           'We request access to your microphone to facilitate online calls and communication with your lawyer. This feature will enhance your ability to discuss your case in real-time and ensure a smoother experience.',
-      'en': '',
+      'en':
+          'We request access to your microphone to facilitate online calls and communication with your lawyer. This feature will enhance your ability to discuss your case in real-time and ensure a smoother experience.',
     },
     'xzuhzagf': {
       'ar':
           'We would like to access your contacts to enable easy sharing of important information with your legal team and facilitate communication. This will help you stay connected and ensure that we can reach you when necessary.',
-      'en': '',
+      'en':
+          'We would like to access your contacts to enable easy sharing of important information with your legal team and communication. This will help you stay connected and ensure that we can reach you when necessary.',
     },
     'zpado2df': {
       'ar': '',

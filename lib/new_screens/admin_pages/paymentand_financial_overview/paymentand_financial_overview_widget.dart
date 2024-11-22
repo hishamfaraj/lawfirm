@@ -343,7 +343,7 @@ class _PaymentandFinancialOverviewWidgetState
                                     ),
                                     Text(
                                       FFLocalizations.of(context).getText(
-                                        'tn2vs6xh' /* ٢٠٢٤/٠٥/١٥ */,
+                                        'tn2vs6xh' /* ٢٠٢٤٠٥١٥ */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
@@ -389,7 +389,7 @@ class _PaymentandFinancialOverviewWidgetState
                                     ),
                                     Text(
                                       FFLocalizations.of(context).getText(
-                                        '84p430xx' /* ٢٠٢٤/٠٥/٢٠ */,
+                                        '84p430xx' /* ٢٠٢٤٠٥٢٠ */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
@@ -471,7 +471,7 @@ class _PaymentandFinancialOverviewWidgetState
                                   children: [
                                     Text(
                                       FFLocalizations.of(context).getText(
-                                        'z9xkmnsc' /* القضية/المحامي */,
+                                        'z9xkmnsc' /* القضيةالمحامي */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
