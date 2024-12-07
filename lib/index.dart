@@ -1,15 +1,15 @@
 // Export pages
-export '/new_screens/client_pages/registration_page/registration_page_widget.dart'
+export '/new_screens/shared_pages/registration_page/registration_page_widget.dart'
     show RegistrationPageWidget;
-export '/new_screens/client_pages/sign_in_page/sign_in_page_widget.dart'
+export '/new_screens/shared_pages/sign_in_page/sign_in_page_widget.dart'
     show SignInPageWidget;
-export '/new_screens/client_pages/client_dashboard/client_dashboard_widget.dart'
+export '/new_screens/shared_pages/client_dashboard/client_dashboard_widget.dart'
     show ClientDashboardWidget;
-export '/new_screens/client_pages/law_firm_informational_page/law_firm_informational_page_widget.dart'
+export '/new_screens/shared_pages/law_firm_informational_page/law_firm_informational_page_widget.dart'
     show LawFirmInformationalPageWidget;
 export '/new_screens/lawyer_pages/lawyer_dashboard/lawyer_dashboard_widget.dart'
     show LawyerDashboardWidget;
-export '/new_screens/client_pages/single_lawyer_page/single_lawyer_page_widget.dart'
+export '/new_screens/shared_pages/single_lawyer_page/single_lawyer_page_widget.dart'
     show SingleLawyerPageWidget;
 export '/new_screens/lawyer_pages/lawyer_notebook/lawyer_notebook_widget.dart'
     show LawyerNotebookWidget;

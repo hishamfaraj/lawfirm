@@ -195,7 +195,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'All rights reserved © 2024 Yamout Law Office',
     },
   },
-  // SignIn_Page
+  // SignInPage
   {
     'f63bwgwk': {
       'ar': 'يموت للمحاماة',
@@ -208,6 +208,10 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     '6gjohxrb': {
       'ar': 'البريد الإلكتروني',
       'en': 'e-mail',
+    },
+    '1xifgd9x': {
+      'ar': '',
+      'en': '',
     },
     'o2bp5vyc': {
       'ar': 'كلمة المرور',

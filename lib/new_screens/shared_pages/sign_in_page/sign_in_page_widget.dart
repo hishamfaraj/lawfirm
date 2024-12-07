@@ -1,3 +1,4 @@
+import '/auth/supabase_auth/auth_util.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
@@ -282,8 +283,21 @@ class _SignInPageWidgetState extends State<SignInPageWidget> {
                                       .asValidator(context),
                                 ),
                                 FFButtonWidget(
-                                  onPressed: () {
-                                    print('Button pressed ...');
+                                  onPressed: () async {
+                                    GoRouter.of(context).prepareAuthEvent();
+
+                                    final user =
+                                        await authManager.signInWithEmail(
+                                      context,
+                                      _model.emailFieldTextController.text,
+                                      _model.passwordFieldTextController.text,
+                                    );
+                                    if (user == null) {
+                                      return;
+                                    }
+
+                                    context.goNamedAuth(
+                                        'ClientDashboard', context.mounted);
                                   },
                                   text: FFLocalizations.of(context).getText(
                                     '19tuhtar' /* تسجيل الدخول */,
